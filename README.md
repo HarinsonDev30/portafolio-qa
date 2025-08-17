@@ -1,50 +1,54 @@
-# Portafolio QA
+# Portafolio de Desarrollo de Software
 
-¡Bienvenido/a a mi portafolio como **Quality Assurance (QA)**!  
-Aquí encontrarás una muestra de mis proyectos, habilidades y experiencia en aseguramiento de la calidad de software.
+¡Bienvenido/a a mi portafolio!  
+Aquí encontrarás una muestra de mis proyectos, habilidades y experiencia en el desarrollo de software.
 
 ---
 
 ## Sobre mí
 
-Soy un/a profesional apasionado/a por la calidad de los productos digitales, con experiencia en:
+Soy desarrollador/a de software apasionado/a por crear soluciones tecnológicas innovadoras y de alta calidad. Tengo experiencia en:
 
-- Pruebas funcionales y no funcionales
-- Automatización de pruebas (Selenium, Postman, Cypress, etc.)
-- Diseño de casos de prueba y reportes de defectos
+- Desarrollo web (front-end y back-end)
+- Aplicaciones móviles
+- Diseño de APIs REST
+- Bases de datos SQL y NoSQL
+- Pruebas y aseguramiento de calidad
 - Metodologías ágiles (Scrum, Kanban)
-- Herramientas de gestión (Jira, TestRail, Zephyr)
-- Pruebas de APIs y móviles
+- DevOps básico (CI/CD, Docker)
 
 ---
 
 ## Proyectos destacados
 
-| Proyecto            | Descripción                                   | Tecnologías         | Enlace        |
-|---------------------|-----------------------------------------------|---------------------|--------------|
-| **E-commerce QA**   | Pruebas manuales y automatizadas de checkout  | Selenium, Jira      | [Ver más](./ecommerce-qa) |
-| **API Testing**     | Validación de endpoints REST                  | Postman, Newman     | [Ver más](./api-testing)  |
-| **Mobile App QA**   | Testing en Android y iOS                      | Appium, TestRail    | [Ver más](./mobile-app-qa) |
-| **Automatización Demo** | Ejemplo de automatización con Cypress      | Cypress             | [Ver más](./cypress-demo) |
+| Proyecto            | Descripción                                     | Tecnologías             | Enlace        |
+|---------------------|-------------------------------------------------|-------------------------|--------------|
+| **Gestor de Tareas**| Aplicación web para organización personal       | React, Node.js, MongoDB | [Ver más](./gestor-tareas) |
+| **E-commerce API**  | Backend para tienda online                      | Express, PostgreSQL     | [Ver más](./ecommerce-api) |
+| **App Móvil Fitness**| Seguimiento de rutinas y salud                 | Flutter, Firebase       | [Ver más](./fitness-app) |
+| **Blog Personal**   | Blog dinámico con autenticación                 | Next.js, SQLite         | [Ver más](./blog-personal) |
 
 ---
 
 ## Habilidades técnicas
 
-- Selenium WebDriver (Java, Python)
-- Cypress
-- Postman (APIs REST)
-- Appium (Mobile)
+- JavaScript / TypeScript
+- Python
+- Java / Kotlin
+- React / Next.js / Angular
+- Node.js / Express
+- Flutter / React Native
+- SQL (PostgreSQL, MySQL) y NoSQL (MongoDB, Firebase)
 - Git y GitHub
-- Jira/TestRail/Zephyr
-- CI/CD básico (Jenkins, GitHub Actions)
+- Docker y CI/CD básico
 
 ---
 
-## Certificaciones
+## Certificaciones y formación
 
-- Certificado ISTQB Foundation Level
-- Certificado en Automatización de Pruebas (Platzi/Udemy)
+- Certificado en Desarrollo Web Full Stack (Platzi/Udemy)
+- Certificado en Desarrollo Móvil (Coursera/Udemy)
+- Licenciatura/Ingeniería en Informática (opcional)
 
 ---
 
@@ -56,7 +60,7 @@ Soy un/a profesional apasionado/a por la calidad de los productos digitales, con
 
 ---
 
-> _“La calidad no es un acto, es un hábito.”_
+> _“El software es una gran combinación entre arte e ingeniería.”_
 
 ---
 
