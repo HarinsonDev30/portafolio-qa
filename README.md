@@ -50,9 +50,9 @@ Soy un/a profesional apasionado/a por la calidad de los productos digitales, con
 
 ## Contacto
 
-- Email: tuemail@dominio.com
-- LinkedIn: [linkedin.com/in/TU_USUARIO](https://linkedin.com/in/TU_USUARIO)
-- GitHub: [github.com/TU_USUARIO](https://github.com/TU_USUARIO)
+- Email: tbs47@hotmail.com
+- LinkedIn: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/harinson-palacios-renteria-698965118/)
+- GitHub: [github.com/HarinsonDev30](https://github.com/HarinsonDev30)
 
 ---
 
